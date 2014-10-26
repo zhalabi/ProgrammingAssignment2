@@ -1,4 +1,4 @@
-## Assignment for R Programming
+## Assignment for R Programming Course
 ## Create Matrix
 
 ## This function creates a special "matrix" object that can cache its inverse
